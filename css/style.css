@@ -26,7 +26,6 @@ hr{
 header{
   background-image: url("../images/banniere.jpg");
   background-position: left;
-  background-repeat: no-repeat;
   background-size: cover;
   height: 200px;
   position: relative;
