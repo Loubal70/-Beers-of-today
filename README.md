@@ -5,3 +5,5 @@ Voici le contenu de mon projet ! **Le projet est complet, il ne manque rien, s'i
 ou par Discord Loubal70#2385**
 
 - L'image burger n'est pas intégré, Mr Audemard a stipulé qu'elle était **inutile** comme nous ne devions pas faire de responsive. Pour l'ajouter, une balise img et un display: none !
+
+- En cas de version erroné, voici une version stable : https://bieres.louisb-host.fr/
