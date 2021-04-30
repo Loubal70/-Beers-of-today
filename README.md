@@ -6,4 +6,4 @@ ou par Discord Loubal70#0666**
 
 - L'image burger n'est pas intégré, Mr Audemard a stipulé qu'elle était **inutile** comme nous ne devions pas faire de responsive. Pour l'ajouter, une balise img et un display: none !
 
-- En cas de version erroné, voici une version stable : https://bieres.louisb-host.fr/
+- En cas de version erroné, voici une version stable : https://bieresmmi.louis-boulanger.fr/
